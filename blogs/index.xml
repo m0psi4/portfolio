@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Блог on Danila Muginen - Системный администратор</title>
+    <link>https://portfolio.easy-link-x.ru/blogs/</link>
+    <description>Recent content in Блог on Danila Muginen - Системный администратор</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Mon, 10 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://portfolio.easy-link-x.ru/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Организация безопасного SSH-доступа для нескольких пользователей</title>
+      <link>https://portfolio.easy-link-x.ru/blogs/ssh-post/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://portfolio.easy-link-x.ru/blogs/ssh-post/</guid>
+      <description>Пример организации безопасного SSH-доступа для нескольких пользователей на Debian 12</description>
+    </item>
+    
+  </channel>
+</rss>
